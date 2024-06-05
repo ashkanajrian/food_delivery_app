@@ -1,5 +1,5 @@
-import 'package:barber_shop/data/api/api_client.dart';
-import 'package:barber_shop/utils/app_constants.dart';
+import 'package:food_delivery_app/data/api/api_client.dart';
+import 'package:food_delivery_app/utils/app_constants.dart';
 import 'package:get/get.dart';
 
 class RecommendedProductRepo extends GetxService{

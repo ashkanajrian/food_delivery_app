@@ -1,4 +1,4 @@
-import 'package:barber_shop/utils/dimensions.dart';
+import 'package:food_delivery_app/utils/dimensions.dart';
 import 'package:flutter/cupertino.dart';
 
 class AppIcon extends StatelessWidget {

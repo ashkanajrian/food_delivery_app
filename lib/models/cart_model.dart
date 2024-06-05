@@ -1,4 +1,4 @@
-import 'package:barber_shop/models/products_model.dart';
+import 'package:food_delivery_app/models/products_model.dart';
 
 class CartModel {
   int? id;

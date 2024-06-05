@@ -1,6 +1,6 @@
 import 'dart:async';
-import 'package:barber_shop/routes/route_helper.dart';
-import 'package:barber_shop/utils/dimensions.dart';
+import 'package:food_delivery_app/routes/route_helper.dart';
+import 'package:food_delivery_app/utils/dimensions.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';

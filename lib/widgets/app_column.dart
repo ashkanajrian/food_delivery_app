@@ -1,4 +1,4 @@
-import 'package:barber_shop/widgets/small_text.dart';
+import 'package:food_delivery_app/widgets/small_text.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 

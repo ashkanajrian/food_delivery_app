@@ -1,4 +1,4 @@
-import 'package:barber_shop/models/products_model.dart';
+import 'package:food_delivery_app/models/products_model.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:get/get_connect/http/src/utils/utils.dart';

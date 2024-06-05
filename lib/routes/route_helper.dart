@@ -1,9 +1,9 @@
-import 'package:barber_shop/pages/cart/cart_page.dart';
-import 'package:barber_shop/pages/food/popular_food_detail.dart';
-import 'package:barber_shop/pages/food/recommended_food_detail.dart';
-import 'package:barber_shop/pages/home/home_page.dart';
-import 'package:barber_shop/pages/home/main_food_page.dart';
-import 'package:barber_shop/pages/splash/splash_page.dart';
+import 'package:food_delivery_app/pages/cart/cart_page.dart';
+import 'package:food_delivery_app/pages/food/popular_food_detail.dart';
+import 'package:food_delivery_app/pages/food/recommended_food_detail.dart';
+import 'package:food_delivery_app/pages/home/home_page.dart';
+import 'package:food_delivery_app/pages/home/main_food_page.dart';
+import 'package:food_delivery_app/pages/splash/splash_page.dart';
 import 'package:get/get.dart';
 
 class RouteHelper{

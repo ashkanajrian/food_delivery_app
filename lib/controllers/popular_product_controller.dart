@@ -1,6 +1,6 @@
-import 'package:barber_shop/controllers/cart_controller.dart';
-import 'package:barber_shop/models/cart_model.dart';
-import 'package:barber_shop/models/products_model.dart';
+import 'package:food_delivery_app/controllers/cart_controller.dart';
+import 'package:food_delivery_app/models/cart_model.dart';
+import 'package:food_delivery_app/models/products_model.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 

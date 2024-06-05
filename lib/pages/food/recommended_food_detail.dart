@@ -1,9 +1,9 @@
-import 'package:barber_shop/controllers/recommended_product_controller.dart';
-import 'package:barber_shop/routes/route_helper.dart';
-import 'package:barber_shop/utils/dimensions.dart';
-import 'package:barber_shop/widgets/app_icon.dart';
-import 'package:barber_shop/widgets/big_text.dart';
-import 'package:barber_shop/widgets/expandable_text_widget.dart';
+import 'package:food_delivery_app/controllers/recommended_product_controller.dart';
+import 'package:food_delivery_app/routes/route_helper.dart';
+import 'package:food_delivery_app/utils/dimensions.dart';
+import 'package:food_delivery_app/widgets/app_icon.dart';
+import 'package:food_delivery_app/widgets/big_text.dart';
+import 'package:food_delivery_app/widgets/expandable_text_widget.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_lorem/flutter_lorem.dart';

@@ -1,6 +1,6 @@
-import 'package:barber_shop/utils/dimensions.dart';
-import 'package:barber_shop/widgets/big_text.dart';
-import 'package:barber_shop/widgets/small_text.dart';
+import 'package:food_delivery_app/utils/dimensions.dart';
+import 'package:food_delivery_app/widgets/big_text.dart';
+import 'package:food_delivery_app/widgets/small_text.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'food_page_body.dart';

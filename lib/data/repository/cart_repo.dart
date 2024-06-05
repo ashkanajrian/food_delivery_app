@@ -1,6 +1,6 @@
 import 'dart:convert';
 
-import 'package:barber_shop/utils/app_constants.dart';
+import 'package:food_delivery_app/utils/app_constants.dart';
 import 'package:shared_preferences/shared_preferences.dart';
 import '../../models/cart_model.dart';
 

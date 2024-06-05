@@ -1,5 +1,5 @@
-import 'package:barber_shop/utils/dimensions.dart';
-import 'package:barber_shop/widgets/small_text.dart';
+import 'package:food_delivery_app/utils/dimensions.dart';
+import 'package:food_delivery_app/widgets/small_text.dart';
 import 'package:flutter/cupertino.dart';
 
 class IconAndTextWidget extends StatelessWidget {

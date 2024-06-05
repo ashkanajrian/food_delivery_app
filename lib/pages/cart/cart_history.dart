@@ -1,13 +1,13 @@
 import 'dart:convert';
 
-import 'package:barber_shop/base/no_data_page.dart';
-import 'package:barber_shop/models/cart_model.dart';
-import 'package:barber_shop/routes/route_helper.dart';
-import 'package:barber_shop/utils/app_constants.dart';
-import 'package:barber_shop/utils/dimensions.dart';
-import 'package:barber_shop/widgets/app_icon.dart';
-import 'package:barber_shop/widgets/big_text.dart';
-import 'package:barber_shop/widgets/small_text.dart';
+import 'package:food_delivery_app/base/no_data_page.dart';
+import 'package:food_delivery_app/models/cart_model.dart';
+import 'package:food_delivery_app/routes/route_helper.dart';
+import 'package:food_delivery_app/utils/app_constants.dart';
+import 'package:food_delivery_app/utils/dimensions.dart';
+import 'package:food_delivery_app/widgets/app_icon.dart';
+import 'package:food_delivery_app/widgets/big_text.dart';
+import 'package:food_delivery_app/widgets/small_text.dart';
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
 import 'package:intl/intl.dart';
